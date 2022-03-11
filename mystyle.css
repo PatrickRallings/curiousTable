@@ -1,0 +1,62 @@
+h1:hover {
+  border: 1px;
+  border-style: double;
+  border-color: blue;
+  font-style: italic;
+}
+h2 {
+  color: aqua;
+}
+table,
+th,
+td {
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+  border-collapse: separate;
+}
+.col1:hover {
+  background-color: lightgray;
+  border-left-style: dashed;
+  border-right-style: dashed;
+}
+.col2:hover {
+  background-color: lightgray;
+  border-left-style: dashed;
+  border-right-style: dashed;
+}
+.col3:hover {
+  background-color: lightgray;
+  border-left-style: dashed;
+  border-right-style: dashed;
+}
+.row1:hover {
+  background-color: lightgray;
+  border-top-style: dashed;
+  border-bottom-style: dashed;
+}
+.row2:hover {
+  background-color: lightgray;
+  border-top-style: dashed;
+  border-bottom-style: dashed;
+}
+.row3:hover {
+  background-color: lightgray;
+  border-top-style: dashed;
+  border-bottom-style: dashed;
+}
+.row4:hover {
+  background-color: lightgray;
+  border-top-style: dashed;
+  border-bottom-style: dashed;
+}
+.row5:hover {
+  background-color: lightgray;
+  border-top-style: dashed;
+  border-bottom-style: dashed;
+}
+td:hover {
+  border-style: solid;
+  border-color: greenyellow;
+  background-color: greenyellow;
+}
